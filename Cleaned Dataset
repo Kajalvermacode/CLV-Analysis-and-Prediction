@@ -48,7 +48,7 @@ final_data = load_csv("final_customer_clv.csv")
 results_data = load_csv("Customer_Lifetime_Value_Results.csv")
 prediction_data = load_csv("xgboost_clv_predictions.csv")
 rfm_data = load_csv("rfm_t_features.csv")
-cleaned_data = load_csv("cleaned_usc_data.csv")
+cleaned_data = load_csv("final_customer_ch.csv")
 
 
 # -----------------------------------
